@@ -1,7 +1,7 @@
 ncsdk-vagrant
 ===
 
-ncsdk-vagrant launches a Vagrant virtual machine to run an application on [Movidius neural compute stick](https://developer.movidius.com/). 
+ncsdk-vagrant launches a Vagrant virtual machine to run an application on [Movidius neural compute stick](https://developer.movidius.com/). Currently [NCSDK](https://github.com/movidius/ncsdk) supports only Linux platform. ncsdk-vagrant enables us to run Movidius application even on macOS. 
 
 # Prerequisites
 
